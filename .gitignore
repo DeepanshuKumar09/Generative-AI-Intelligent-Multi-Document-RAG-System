@@ -1,0 +1,44 @@
+
+# Virtual Environment
+docu/
+.venv/
+env/
+
+# Environment Variables and API Keys
+.env
+.env.*
+!.env.example
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# FAISS / Vector Store Files
+*.faiss
+*.pkl
+
+# Test and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build Files
+build/
+dist/
+*.egg-info/
