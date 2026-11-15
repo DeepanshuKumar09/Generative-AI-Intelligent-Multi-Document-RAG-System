@@ -114,8 +114,8 @@ DocuMind-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd Multi-Document-RAG-System
+git clone https://github.com/DeepanshuKumar09/Generative-AI-Intelligent-Multi-Document-RAG-System
+cd Generative-AI-Intelligent-Multi-Document-RAG-System
 ```
 
 ### 2. Create a Virtual Environment
