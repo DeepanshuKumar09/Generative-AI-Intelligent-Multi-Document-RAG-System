@@ -187,7 +187,7 @@ The following parameters control document processing and retrieval:
 | Chunk Overlap | 200 |
 | Top-K Retrieval | 4 |
 | Embedding Model | all-MiniLM-L6-v2 |
-| LLM | Gemini 2.5 Flash |
+| LLM | Gemini 3.6 Flash |
 | Temperature | 0.2 |
 
 **Document Chunking:** Documents are divided into smaller overlapping chunks to preserve context and improve retrieval.
